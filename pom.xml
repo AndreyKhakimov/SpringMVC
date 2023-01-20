@@ -9,7 +9,9 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-    <spring.version>5.3.20</spring.version>
+    <spring.version>5.2.9.RELEASE</spring.version>
+    <maven.compiler.source>19</maven.compiler.source>
+    <maven.compiler.target>19</maven.compiler.target>
   </properties>
 
   <dependencies>
