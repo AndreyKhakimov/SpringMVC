@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71a164cd-8182-47a9-ab9f-4c40a5219c73" name="Changes" comment="Spring version that fixes 500 error">
+    <list default="true" id="71a164cd-8182-47a9-ab9f-4c40a5219c73" name="Changes" comment="Add RequestParam &amp; HttpServletRequest in FirstController">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/khakimov/springMVC/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/khakimov/springMVC/controllers/FirstController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
@@ -20,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674509171095</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add RequestParam &amp; HttpServletRequest in FirstController">
+      <created>1674510789258</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674510789258</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +197,8 @@
     <MESSAGE value="Add Java configuration&#10;MySpringMVCDispatcherServletInitiaizer + &#10;SpringConfig" />
     <MESSAGE value="Add html pages and SecondController" />
     <MESSAGE value="Spring version that fixes 500 error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring version that fixes 500 error" />
+    <MESSAGE value="Add RequestParam &amp; HttpServletRequest in FirstController" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add RequestParam &amp; HttpServletRequest in FirstController" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
